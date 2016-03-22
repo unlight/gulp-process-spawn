@@ -1,0 +1,23 @@
+{
+  "name": "proc-spawn",
+  "version": "1.0.0",
+  "description": "Wrapper around node's child_process.spawn",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlight/proc-spawn.git"
+  },
+  "keywords": [
+    "spawn",
+    "process",
+    "gulpplugin"
+  ],
+  "author": "",
+  "license": "Xnet",
+  "bugs": {
+    "url": "https://github.com/unlight/proc-spawn/issues"
+  },
+  "homepage": "https://github.com/unlight/proc-spawn#readme"
+}
