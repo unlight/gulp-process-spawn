@@ -11,7 +11,7 @@ npm i proc-spawn --save-dev
 ### USAGE
 ```js
 var procSpawn = require("proc-spawn");
-procSpawn("ls", "-la");
+procSpawn("ls", ["-la"]);
 ```
 
 Gulp example:
