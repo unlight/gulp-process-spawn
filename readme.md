@@ -1,4 +1,6 @@
 ## proc-spawn
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/proc-spawn.svg)](https://greenkeeper.io/)
 Wrapper around node's child_process.spawn
 
 
